@@ -1,0 +1,11 @@
+{
+  "name": "Geeza Pro Regular",
+  "version": "1.0",
+  "fonts": [
+    {
+      "name": "Geeza Pro Regular",
+      "file": "Geeza-Pro-Regular.ttf",
+      "format": "ttf"
+    }
+  ]
+}
