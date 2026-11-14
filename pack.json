@@ -1,11 +1,9 @@
 {
-  "name": "Geeza Pro Regular",
-  "version": "1.0",
-  "fonts": [
-    {
-      "name": "Geeza Pro Regular",
-      "file": "Geeza-Pro-Regular (2).ttf",
-      "format": "ttf"
-    }
-  ]
+  "spec": 1,
+  "name": "Geeza Pro",
+  "previewText": "Geeza Pro Arabic font",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/lollolololololol3/GeezaFont/main/Geeza-Pro-Regular%20%282%29.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/lollolololololol3/GeezaFont/main/Geeza-Pro-Regular%20%282%29.ttf"
+  }
 }
